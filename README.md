@@ -14,7 +14,7 @@ In this project, I analyzed Spotify and YouTube data using Python to explore the
     - Strong positive correlation between views and likes.
     - Positive relationship between likes and comments.
 
-![Engagement Metrics Heatmap](file-RNcPeNSoCJRiNEKzQbRfjYok)
+![Engagement Metrics Heatmap]()
 
 ### Audio Metrics Analysis:
 - **Objective**: Explore relationships between features like danceability, energy, and loudness.
@@ -22,14 +22,19 @@ In this project, I analyzed Spotify and YouTube data using Python to explore the
     - Strong positive correlation between energy and loudness.
     - Negative correlation between acousticness and energy.
 
-![Audio Metrics Heatmap](file-RyEPoJRf2HHZu5WkTo0QYBkb)
+![Audio Metrics Heatmap]()
 
 ### Song Distribution Analysis:
 - **Objective**: Examine the distribution of songs by album type (album, single, compilation).
 - **Findings**:
     - 72% of songs were released as albums, 24% as singles.
 
-![Song Distribution by Album Type](file-NQNESwmKId500IAEYdZMmJRm)
+![Song Distribution by Album Type]()
+
+### Top 10 Songs on YouTube vs. Spotify:
+- Most viewed song on YouTube: "Despacito" (1.5e10 views)
+- Most streamed song on Spotify: "Closer" (5e9 streams)
+These charts highlight that the top songs on YouTube and Spotify are different. While "Despacito" dominates YouTube in terms of views, "Closer" leads Spotify in streams.
 
 ## 🎯 Summary
 
