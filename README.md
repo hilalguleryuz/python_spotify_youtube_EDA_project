@@ -1,7 +1,3 @@
-Here’s the shortened version in English:
-
----
-
 ## 🎧📊 Spotify & YouTube Explaratory Data Analysis (EDA) Project
 
 In this project, I analyzed Spotify and YouTube data using Python to explore the relationships between engagement metrics and audio features as well as top 10 songs and artists on both platforms.
