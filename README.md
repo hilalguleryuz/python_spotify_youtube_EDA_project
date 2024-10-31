@@ -10,7 +10,8 @@ In this project, I applied Exploratory Data Analysis (EDA) using Spotify & Youtu
   
 #### Audio Metrics Analysis: 
 - I explored the relationships between audio metrics like danceability, energy, loudness, valance, and instrumentalness.
-- **Findings**: - Strong positive correlation:
+- **Findings**:
+- Strong positive correlation:
 There is a strong positive correlation between Energy and Loudness meaning that songs with higher energy tend to be louder or vice versa.
 There is also a strong positive correlation between Danceability and Valence which means that songs that are suitable for dancing express more positive emotions.
 - Strong negative correlation:
