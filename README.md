@@ -1,20 +1,14 @@
 ## 🎧📊 Spotify & YouTube Exploratory Data Analysis (EDA) Project
 
-In this project, I analyzed Spotify and YouTube data using Python to explore the relationships between engagement metrics and audio features as well as top 10 songs and artists on both platforms.
+In this project, I applied Exploratory Data Analysis (EDA) using Spotify & Youtube data. 
 
 ### 📋 Project Overview
 
 #### Engagement Metrics Analysis:
-- **Objective**: Analyze the correlation between views, likes, and comments.
-- **Findings**:
-    - Strong positive correlation between views and likes.
-    - Positive relationship between likes and comments.
+- I analyzed the correlation between engagement metrics: views, likes, and comments.
 
 #### Audio Metrics Analysis:
-- **Objective**: Explore relationships between features like danceability, energy, and loudness.
-- **Findings**:
-    - Strong positive correlation between energy and loudness.
-    - Negative correlation between acousticness and energy.
+- I explored the relationships between audio metrics like danceability, energy, loudness, valance, and instrumentalness.
 
 #### Song Distribution Analysis:
 - **Objective**: Examine the distribution of songs by album type (album, single, compilation).
