@@ -4,16 +4,12 @@ In this project, I applied Exploratory Data Analysis (EDA) using Spotify & Youtu
 
 ### 📋 Project Overview
 
-#### Engagement Metrics Analysis:
-- I analyzed the correlation between engagement metrics: views, likes, and comments.
+#### Engagement Metrics Analysis: I analyzed the correlation between engagement metrics: views, likes, and comments.
 
-#### Audio Metrics Analysis:
-- I explored the relationships between audio metrics like danceability, energy, loudness, valance, and instrumentalness.
+#### Audio Metrics Analysis: I explored the relationships between audio metrics like danceability, energy, loudness, valance, and instrumentalness.
 
-#### Song Distribution Analysis:
-- **Objective**: Examine the distribution of songs by album type (album, single, compilation).
-- **Findings**:
-    - 72% of songs were released as albums, 24% as singles.
+#### Song Distribution Analysis: I examined the distribution of songs by album type (album, single, compilation).
+- **Findings**: 72% of songs were released as albums, 24% as singles.
 
 #### Top 10 Songs on YouTube vs. Spotify:
 - Most viewed song on YouTube: "Despacito" (1.5e10 views)
