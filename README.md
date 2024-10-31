@@ -5,9 +5,12 @@ In this project, I applied Exploratory Data Analysis (EDA) using Spotify & Youtu
 ### 📋 Project Overview
 
 #### Engagement Metrics Analysis: I analyzed the correlation between engagement metrics: views, likes, and comments.
-
+- **Findings**: As the number of views increases, the number of likes and comments also increases.
+- Likewise, as the number of likes increases, comments also increases as expected.
+  
 #### Audio Metrics Analysis: I explored the relationships between audio metrics like danceability, energy, loudness, valance, and instrumentalness.
-
+- **Findings**: 
+  
 #### Song Distribution Analysis: I examined the distribution of songs by album type (album, single, compilation).
 - **Findings**: 72% of songs were released as albums, 24% as singles.
 
